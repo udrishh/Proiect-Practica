@@ -12,6 +12,7 @@ import DiscreteSlider2 from './skillSlide2';
 import DiscreteSlider3 from './skillSlide3';
 import DiscreteSlider4 from './skillSlide4';
 import DiscreteSlider5 from './skillSlide5';
+import GitHubUser from './GitHubUser';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -29,6 +30,9 @@ ReactDOM.render(
         </td>
         <td><CustomizedTimeline/></td>
         <td width='10%'>margin</td>
+      </tr>
+      <tr>
+        <td collspan='4'><br/><br/><br/></td>
       </tr>
       <tr>
         <td width='10%'>margin</td>
@@ -72,10 +76,26 @@ ReactDOM.render(
           </Typography><br/>
         </td>
         <td>
-        <center><img alt="" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif"></img><br/>Actual footage of me coding this website.</center>
+        <center><img alt="" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif"></img><br/>Actual footage of me while coding this website.</center>
         </td>
         <td width='10%'>margin</td>
       </tr>
+
+      <tr>
+        <td collspan='4'><br/><br/><br/></td>
+      </tr>
+
+      <tr>
+      <td width='10%'>margin</td>
+      <td ><GitHubUser/></td>
+      <td >
+      <Typography variant='h2'><center><font face='florencesans_shadedregular'>Take a look on my GitHub profile!</font></center></Typography><br/>
+      <center><img alt="" src="https://i.kym-cdn.com/entries/icons/facebook/000/028/021/work.jpg" height='200' width='350'/></center>
+      
+      </td>
+      <td width='10%'>margin</td>
+      </tr>
+
     </table>
   </React.StrictMode>,
   document.getElementById('root')
