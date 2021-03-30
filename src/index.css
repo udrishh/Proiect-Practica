@@ -18,8 +18,8 @@ code {
 
 @font-face {
   font-family: 'florencesansitalic';
-  src: url('florencesans.italic-webfont.woff2') format('woff2'),
-       url('florencesans.italic-webfont.woff') format('woff');
+  src: url('fonts/florencesans.italic-webfont.woff2') format('woff2'),
+       url('fonts/florencesans.italic-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -27,8 +27,8 @@ code {
 
 @font-face {
   font-family: 'florencesansregular';
-  src: url('florencesans.regular-webfont.woff2') format('woff2'),
-       url('florencesans.regular-webfont.woff') format('woff');
+  src: url('fonts/florencesans.regular-webfont.woff2') format('woff2'),
+       url('fonts/florencesans.regular-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -36,8 +36,8 @@ code {
 
 @font-face {
   font-family: 'florencesans_shadedregular';
-  src: url('florencesans.shaded-webfont.woff2') format('woff2'),
-       url('florencesans.shaded-webfont.woff') format('woff');
+  src: url('fonts/florencesans.shaded-webfont.woff2') format('woff2'),
+       url('fonts/florencesans.shaded-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -45,8 +45,8 @@ code {
 
 @font-face {
   font-family: 'florencesans_shadeditalic';
-  src: url('florencesans.shaded-italic-webfont.woff2') format('woff2'),
-       url('florencesans.shaded-italic-webfont.woff') format('woff');
+  src: url('fonts/florencesans.shaded-italic-webfont.woff2') format('woff2'),
+       url('fonts/florencesans.shaded-italic-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -54,8 +54,8 @@ code {
 
 @font-face {
   font-family: 'florencesansitalic';
-  src: url('florencesans.italic-webfont.woff2') format('woff2'),
-       url('florencesans.italic-webfont.woff') format('woff');
+  src: url('fonts/florencesans.italic-webfont.woff2') format('woff2'),
+       url('fonts/florencesans.italic-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -63,8 +63,8 @@ code {
 
 @font-face {
   font-family: 'florencesansregular';
-  src: url('florencesans.regular-webfont.woff2') format('woff2'),
-       url('florencesans.regular-webfont.woff') format('woff');
+  src: url('fonts/florencesans.regular-webfont.woff2') format('woff2'),
+       url('fonts/florencesans.regular-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -72,8 +72,8 @@ code {
 
 @font-face {
   font-family: 'florencesans_shadedregular';
-  src: url('florencesans.shaded-webfont.woff2') format('woff2'),
-       url('florencesans.shaded-webfont.woff') format('woff');
+  src: url('fonts/florencesans.shaded-webfont.woff2') format('woff2'),
+       url('fonts/florencesans.shaded-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -81,8 +81,8 @@ code {
 
 @font-face {
   font-family: 'florencesans_shadeditalic';
-  src: url('florencesans.shaded-italic-webfont.woff2') format('woff2'),
-       url('florencesans.shaded-italic-webfont.woff') format('woff');
+  src: url('fonts/florencesans.shaded-italic-webfont.woff2') format('woff2'),
+       url('fonts/florencesans.shaded-italic-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
