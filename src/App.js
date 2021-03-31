@@ -14,6 +14,7 @@ import MoviesGrid from './components/moviesGrid';
 import Contact1 from './components/contact1';
 import Contact2 from './components/contact2';
 import GitHubIcon from '@material-ui/icons/GitHub';
+import GoogleForms from './googleForms';
 
 function App() {
     return (
@@ -143,7 +144,9 @@ function App() {
         <td width='10%'>
         </td>
         <td>
-          
+          <center>
+            <GoogleForms/>
+          </center>
         </td>
         <td>
         <center>
@@ -152,7 +155,6 @@ function App() {
             <img alt="" src="https://media.giphy.com/media/st7q18mjEvCbm/giphy.gif" height="135" width="240"/><br/><br/><br/>
             </center>
             <Contact2/>
-            
         </td>
         <td width='10%'>
         </td>
