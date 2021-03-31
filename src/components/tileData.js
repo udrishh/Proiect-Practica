@@ -28,10 +28,16 @@ import image17 from '../photos/ph17.png';
       author: 'author',
     },
     {
+      img: image16,
+      title: <font face="florencesansregular" color="white">Chernobyl</font>,
+      author: 'author',
+    },
+    {
       img: image3,
       title: <font face="florencesansregular" color="white">Snowpiercer</font>,
       author: 'author',
     },
+    
     {
       img: image4,
       title: <font face="florencesansregular" color="white">The Umbrella Academy</font>,
@@ -92,11 +98,7 @@ import image17 from '../photos/ph17.png';
       title: <font face="florencesansregular" color="white">La Casa De Papel</font>,
       author: 'author',
     },
-    {
-      img: image16,
-      title: <font face="florencesansregular" color="white">Chernobyl</font>,
-      author: 'author',
-    },
+    
     {
       img: image17,
       title: <font face="florencesansregular" color="white">I Know This Much Is True</font>,

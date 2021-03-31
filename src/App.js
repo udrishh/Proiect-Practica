@@ -11,6 +11,8 @@ import DiscreteSlider5 from './components/skillSlide5';
 import GitHubUser from './components/GitHubUser';
 import AppleMusic from './components/AppleMusic';
 import MoviesGrid from './components/moviesGrid';
+import Contact1 from './components/contact1';
+import Contact2 from './components/contact2';
 
 function App() {
     return (
@@ -105,7 +107,7 @@ function App() {
         <td width='10%'></td>
         <td>
             <Typography variant='h3'><center><font face='florencesans_shadedregular'>Let's take a break!😌</font></center></Typography><br/><br/><br/>
-            <Typography variant='h5'><center><font face='florencesansregular'>Here are some music, movies, and TV shows recommendations!</font></center></Typography>
+            <Typography variant='h5'><center><font face='florencesansregular'>Here are some music, movies, and TV shows recommendations!</font></center></Typography><br/>
             <center><AppleMusic/>
             </center>
         </td>
@@ -114,11 +116,38 @@ function App() {
           <center>
         <img alt="" src="https://media1.tenor.com/images/cc9f101192bcf54c7db2d9470094eeb1/tenor.gif?itemid=18110512" height='200' width='350'></img>
         <br/><br/><br/>
-            <MoviesGrid/>
-            
+            <MoviesGrid/><br/>
             </center>
+            <Typography variant='h5'> <font face='florencesansregular'>*Chernobyl it's a must-see</font></Typography>
+            
+            
         </td>
         <td width='10%'></td>
+      </tr>
+
+      <tr>
+        <td collspan='4'>
+        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+        </td>  
+      </tr>
+
+      <tr>
+        <td width='10%'>
+        </td>
+        <td>
+          
+        </td>
+        <td>
+        <center>
+            <Contact1/><br/>
+            <img alt="" src="https://media.giphy.com/media/3oEduNpxiamlYn9Cz6/giphy.gif" height="135" width="240"/>
+            <img alt="" src="https://media.giphy.com/media/st7q18mjEvCbm/giphy.gif" height="135" width="240"/><br/><br/><br/>
+            </center>
+            <Contact2/>
+            
+        </td>
+        <td width='10%'>
+        </td>
       </tr>
 
     </table>
