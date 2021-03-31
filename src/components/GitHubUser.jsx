@@ -61,7 +61,7 @@ export default function GitHubUser() {
     return (
         <div>
             <Typography variant="h4" align="left"><font face='florencesansregular'>
-                My repositories:
+                My repositories:<br/><br/>
                 </font>
             </Typography>
             <List className={classes.root}>{listItems}</List>

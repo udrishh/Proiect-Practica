@@ -13,6 +13,7 @@ import AppleMusic from './components/AppleMusic';
 import MoviesGrid from './components/moviesGrid';
 import Contact1 from './components/contact1';
 import Contact2 from './components/contact2';
+import GitHubIcon from '@material-ui/icons/GitHub';
 
 function App() {
     return (
@@ -91,7 +92,14 @@ function App() {
 
       <tr>
       <td width='10%'></td>
-      <td ><GitHubUser/></td>
+      <td >
+        <center>
+        <GitHubUser/><br/>
+        <GitHubIcon/>
+        <a href="https://github.com/udrishh">
+        <Typography variant='h6'><font face='florencesansregular'>@udrishh</font></Typography></a><br/>
+        </center>
+      </td>
       <td >
         <Typography variant='h2'><center><font face='florencesans_shadedregular'>Take a look at my GitHub profile!</font></center></Typography><br/>
         <center><img alt="" src="https://i.kym-cdn.com/entries/icons/facebook/000/028/021/work.jpg" height='200' width='350'/></center>
