@@ -106,13 +106,19 @@ function App() {
       <tr>
         <td width='10%'></td>
         <td>
-            <Typography variant='h3'><center><font face='florencesans_shadedregular'>Let's take a break!😌</font></center></Typography><br/>
+            <Typography variant='h3'><center><font face='florencesans_shadedregular'>Let's take a break!😌</font></center></Typography><br/><br/><br/>
             <Typography variant='h5'><center><font face='florencesansregular'>Here are some music, movies, and TV shows recommendations!</font></center></Typography>
             <center><AppleMusic/>
-            <img alt="" src="https://media1.tenor.com/images/cc9f101192bcf54c7db2d9470094eeb1/tenor.gif?itemid=18110512" height='200' width='350'></img></center>
+            </center>
         </td>
         <td>
+        <br/><br/><br/><br/><br/><br/>
+          <center>
+        <img alt="" src="https://media1.tenor.com/images/cc9f101192bcf54c7db2d9470094eeb1/tenor.gif?itemid=18110512" height='200' width='350'></img>
+        <br/><br/><br/>
             <MoviesGrid/>
+            
+            </center>
         </td>
         <td width='10%'></td>
       </tr>
