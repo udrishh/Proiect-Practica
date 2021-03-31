@@ -14,7 +14,7 @@ import MoviesGrid from './components/moviesGrid';
 import Contact1 from './components/contact1';
 import Contact2 from './components/contact2';
 import GitHubIcon from '@material-ui/icons/GitHub';
-import GoogleForms from './googleForms';
+import GoogleForms from './components/googleForms';
 
 function App() {
   return (

@@ -17,12 +17,11 @@ code {
 }
 
 @font-face {
-  font-family: 'florencesansitalic';
-  src: url('fonts/florencesans.italic-webfont.woff2') format('woff2'),
-       url('fonts/florencesans.italic-webfont.woff') format('woff');
+  font-family: 'florencesans_shadeditalic';
+  src: url('fonts/florencesans.shaded-italic-webfont.woff2') format('woff2'),
+       url('fonts/florencesans.shaded-italic-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-
 }
 
 @font-face {
@@ -31,58 +30,12 @@ code {
        url('fonts/florencesans.regular-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-
 }
 
 @font-face {
   font-family: 'florencesans_shadedregular';
   src: url('fonts/florencesans.shaded-webfont.woff2') format('woff2'),
        url('fonts/florencesans.shaded-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'florencesans_shadeditalic';
-  src: url('fonts/florencesans.shaded-italic-webfont.woff2') format('woff2'),
-       url('fonts/florencesans.shaded-italic-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'florencesansitalic';
-  src: url('fonts/florencesans.italic-webfont.woff2') format('woff2'),
-       url('fonts/florencesans.italic-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'florencesansregular';
-  src: url('fonts/florencesans.regular-webfont.woff2') format('woff2'),
-       url('fonts/florencesans.regular-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'florencesans_shadedregular';
-  src: url('fonts/florencesans.shaded-webfont.woff2') format('woff2'),
-       url('fonts/florencesans.shaded-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'florencesans_shadeditalic';
-  src: url('fonts/florencesans.shaded-italic-webfont.woff2') format('woff2'),
-       url('fonts/florencesans.shaded-italic-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
