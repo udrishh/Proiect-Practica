@@ -69,8 +69,6 @@ function App() {
                 <DiscreteSlider5/>
                 Communication Skills
                 <DiscreteSlider4/>
-                Deadlines
-                <DiscreteSlider4/>
                 Leadership
                 <DiscreteSlider4/>
                 Adobe Photoshop
@@ -93,7 +91,7 @@ function App() {
       <td width='10%'></td>
       <td ><GitHubUser/></td>
       <td >
-        <Typography variant='h2'><center><font face='florencesans_shadedregular'>Take a look on my GitHub profile!</font></center></Typography><br/>
+        <Typography variant='h2'><center><font face='florencesans_shadedregular'>Take a look at my GitHub profile!</font></center></Typography><br/>
         <center><img alt="" src="https://i.kym-cdn.com/entries/icons/facebook/000/028/021/work.jpg" height='200' width='350'/></center>
       </td>
       <td width='10%'></td>

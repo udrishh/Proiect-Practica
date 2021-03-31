@@ -137,7 +137,7 @@ export default function CustomizedTimeline() {
                 <TimelineContent>
                     <Paper elevation={3} className={classes.paper}>
                     <Typography variant="h6" component="h1">
-                    <b><font face="florencesansregular">Started Universitary Studies</font></b>
+                    <b><font face="florencesansregular">Started Bachelor Studies</font></b>
                         </Typography>
                         <Typography><font face="florencesansregular">Started studying Economic Informatics at the Bucharest Univeristy of Economic Studies.</font></Typography>
                     </Paper>
