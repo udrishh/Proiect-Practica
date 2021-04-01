@@ -25,7 +25,7 @@ function App() {
           <td width='10%'></td>
           <td colspan='2'>
             <TitleText />
-            <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+            <br/><br/><br/><br/><br/><br/><br/><br/><br/>
           </td>
           <td width='10%'></td>
         </tr>
